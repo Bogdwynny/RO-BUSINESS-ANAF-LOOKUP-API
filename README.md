@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="./assets/logo-wh.png#gh-light-mode-only" width="300" height="100">
-  <img src="./assets/logo-dk.png#gh-dark-mode-only" width="300" height="100">
+  <img src="https://github.com/Bogdwynny/RO-BUSINESS-ANAF-LOOKUP-API/blob/main/assets/logo-wh.png?raw=trueg#gh-light-mode-only" width="300" height="100">
+  <img src="https://github.com/Bogdwynny/RO-BUSINESS-ANAF-LOOKUP-API/blob/main/assets/logo-dk.png?raw=true#gh-dark-mode-only" width="300" height="100">
 </p>
 
 ---
