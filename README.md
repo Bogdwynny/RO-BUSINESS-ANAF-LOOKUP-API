@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img src="./assets/logo-dk.png#gh-light-mode-only" width="300" height="100">
-  <img src="./assets/logo-wh.png#gh-dark-mode-only" width="300" height="100">
+  <img src="./assets/logo-wh.png#gh-light-mode-only" width="300" height="100">
+  <img src="./assets/logo-dk.png#gh-dark-mode-only" width="300" height="100">
 </p>
 
 ---
