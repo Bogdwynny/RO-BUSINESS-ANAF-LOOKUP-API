@@ -1,10 +1,6 @@
+# ANAF
 
 A Node.js package for interacting with ANAF, the fiscal agency in Romania. It provides a simple and intuitive interface for retrieving and processing fiscal data.
-
-<p align="center">
-  <img src="https://github.com/Bogdwynny/RO-BUSINESS-ANAF-LOOKUP-API/blob/main/assets/logo-wh.png?raw=trueg#gh-light-mode-only" width="300" height="100">
-  <img src="https://github.com/Bogdwynny/RO-BUSINESS-ANAF-LOOKUP-API/blob/main/assets/logo-dk.png?raw=true#gh-dark-mode-only" width="300" height="100">
-</p>
 
 ---
 
